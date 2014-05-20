@@ -1,5 +1,5 @@
 name(pinyin).
 title('Parsing and generation of Hanyu Pinyin').
-version('0.1.0').
+version('0.1.1').
 author('Kilian Evang', 'kilian.evang@gmail.com').
-% TODO download?
+download('https://github.com/texttheater/pinyin/releases')
