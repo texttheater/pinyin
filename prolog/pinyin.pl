@@ -1,4 +1,4 @@
-:- module(pinyin,[
+:- module(pinyin, [
   word//2,
   num_dia/2]).
 
