@@ -1,6 +1,9 @@
 :- module(casing, [
     casing/3]).
 
+/** <module> Utilities for letter case
+*/
+
 %%	casing(?Codes, ?Lower, ?CasePattern)
 %
 %	True if a word, given as a code-list Codes, obeys CasePattern, which is
