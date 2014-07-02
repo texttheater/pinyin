@@ -401,6 +401,7 @@ final("a").
 final("ia").
 final("ua").
 final("o").
+final("io"). % occurs in interjections
 final("uo").
 final("e").
 final("ie").
