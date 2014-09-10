@@ -65,9 +65,9 @@ num_dia(Num, Dia) :-
 %	that make up the word. They take one of three forms:
 %
 %	    1. =|Initial-Final-Tone|= where =Initial= and =Final= are atoms.
-%	       The final takes has the "underlying" form, which may be
-%	       different from the written form. =Tone= is one of the integers
-%	       from =|0|= to =|4|=.
+%	       The final takes the "underlying" form, which may be different
+%	       from the written form. =Tone= is one of the integers from =|0|=
+%	       to =|4|=.
 %	    2. =r= (for the erhuayin suffix)
 %	    3. =|-|= (for word-internal hyphens)
 %	
